@@ -1,6 +1,7 @@
 # android native调试技巧整理
 
-
+### 参考项目
++  [jni-demo](https://gitee.com/frank2020/jni-demo)
 
 ### 参考资料
 +  [《调试 Android 平台原生代码》](https://source.android.google.cn/devices/tech/debug?hl=zh-cn)
